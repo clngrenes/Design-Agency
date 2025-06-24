@@ -1,0 +1,31 @@
+Deutsch,Arabisch,Transkription,Kategorie
+Gesundheit,صحة,Ṣiḥḥa,Gesundheit
+Krankheit,مرض,Maraḍ,Gesundheit
+Kopfschmerzen,صداع,Ṣudāʿ,Gesundheit
+Fieber,حمى,Ḥummā,Gesundheit
+Husten,سعال,Suʿāl,Gesundheit
+Schnupfen,زكام,Zukām,Gesundheit
+Durchfall,إسهال,ʾIs'hāl,Gesundheit
+Erkältung,برد,Bard,Gesundheit
+Arzt,طبيب,Ṭabīb,Arztbesuch
+Krankenhaus,مستشفى,Mustashfā,Arztbesuch
+Apotheke,صيدلية,Ṣaydaliyya,Arztbesuch
+Rezept,وصفة طبية,Waṣfa ṭibbiyya,Arztbesuch
+Medizin,دواء,Dawāʾ,Arztbesuch
+Ich brauche einen Arzt,أحتاج إلى طبيب,Aḥtāju ilā ṭabīb,Arztbesuch
+Ich habe Schmerzen,عندي ألم,ʿIndī ʾalam,Arztbesuch
+Wo ist das Krankenhaus?,أين المستشفى؟,Ayna al-mustashfā?,Arztbesuch
+müde,تعبان,Taʿbān,Zustand
+krank,مريض,Marīḍ,Zustand
+gesund,سليم,Salīm,Zustand
+schwach,ضعيف,Ḍaʿīf,Zustand
+stark,قوي,Qawī,Zustand
+hungrig,جائع,Jāʾiʿ,Zustand
+durstig,عطشان,ʿAṭshān,Zustand
+schwindelig,دوخة,Dawkha,Zustand
+Hilfe!,النجدة!,An-najda!,Notfall
+Feuer!,حريق!,Ḥarīq!,Notfall
+Polizei,شرطة,Shurṭa,Notfall
+Krankenwagen,سيارة إسعاف,Sayyārat isʿāf,Notfall
+Notaufnahme,قسم الطوارئ,Qism aṭ-ṭawāriʾ,Notfall
+Ich brauche Hilfe,أحتاج إلى مساعدة,Aḥtāju ilā musāʿada,Notfall

@@ -1,0 +1,386 @@
+Deutsch,Arabisch,Transkription,Kategorie
+Hallo,مرحبا,Marhaban,Begrüßung
+Guten Morgen,صباح الخير,Ṣabāḥ al-khayr,Begrüßung
+Guten Abend,مساء الخير,Masāʾ al-khayr,Begrüßung
+Wie geht's?,كيف حالك؟,Kayfa ḥāluka/ḥāluki?,Begrüßung
+Mir geht's gut,أنا بخير,Anā bikhayr,Antwort
+Ich heiße …,اسمي …,Ismī …,Vorstellung
+Ich bin … Jahre alt,عمري … سنة,ʿUmrī … sana,Vorstellung
+Ich komme aus …,أنا من …,Anā min …,Vorstellung
+Ich wohne in …,أسكن في …,Askunu fī …,Vorstellung
+Ich bin Student/Studentin,أنا طالب / طالبة,Anā ṭālib / ṭāliba,Vorstellung
+Danke,شكراً,Shukran,Höflichkeit
+Bitte,من فضلك,Min faḍlik,Höflichkeit
+Gern geschehen,عفواً,ʿAfwan,Höflichkeit
+Entschuldigung,آسف / آسفة,Āsif / āsifa,Höflichkeit
+Kein Problem,لا مشكلة,Lā mushkila,Antwort
+Ich verstehe nicht,أنا لا أفهم,Anā lā afham,Kommunikation
+Sprechen Sie Deutsch?,هل تتكلم الألمانية؟,Hal tatakallam al-almāniyya?,Kommunikation
+Ich spreche nur wenig Arabisch,أتكلم قليلاً من العربية,Atakallam qalīlan min al-ʿarabiyya,Kommunikation
+Können Sie das wiederholen?,هل يمكنك التكرار؟,Hal yumkinuka at-tikrār?,Kommunikation
+Sprechen Sie langsam bitte,تكلم ببطء من فضلك,"Takallam bibuṭʾ, min faḍlik",Kommunikation
+Null,صفر,Ṣifr,Zahlen
+Eins,واحد,Wāḥid,Zahlen
+Zwei,اثنان,Ithnān,Zahlen
+Drei,ثلاثة,Thalātha,Zahlen
+Vier,أربعة,Arbaʿa,Zahlen
+Fünf,خمسة,Khamsa,Zahlen
+Sechs,ستة,Sitta,Zahlen
+Sieben,سبعة,Sabʿa,Zahlen
+Acht,ثمانية,Thamāniya,Zahlen
+Neun,تسعة,Tisʿa,Zahlen
+Zehn,عشرة,ʿAshara,Zahlen
+Wasser,ماء,Māʾ,Essen & Trinken
+Brot,خبز,Khubz,Essen & Trinken
+Milch,حليب,Ḥalīb,Essen & Trinken
+Fleisch,لحم,Laḥm,Essen & Trinken
+Reis,أرز,ʾAruzz,Essen & Trinken
+Fisch,سمك,Samak,Essen & Trinken
+Gemüse,خضار,Khuḍār,Essen & Trinken
+Obst,فاكهة,Fākihat,Essen & Trinken
+Ich habe Hunger,أنا جائع,Anā jāʾiʿ,Essen & Trinken
+Ich habe Durst,أنا عطشان,Anā ʿaṭshān,Essen & Trinken
+Montag,الاثنين,Al-ithnayn,Wochentage
+Dienstag,الثلاثاء,Ath-thulāthāʾ,Wochentage
+Mittwoch,الأربعاء,Al-arbiʿāʾ,Wochentage
+Donnerstag,الخميس,Al-khamīs,Wochentage
+Freitag,الجمعة,Al-jumʿa,Wochentage
+Samstag,السبت,As-sabt,Wochentage
+Sonntag,الأحد,Al-aḥad,Wochentage
+Schwarz,أسود,ʾAswad,Farben
+Weiß,أبيض,ʾAbyaḍ,Farben
+Rot,أحمر,ʾAḥmar,Farben
+Blau,أزرق,ʾAzraq,Farben
+Grün,أخضر,ʾAkhḍar,Farben
+Gelb,أصفر,ʾAṣfar,Farben
+Braun,بني,Bunnī,Farben
+Grau,رمادي,Ramādī,Farben
+Es ist heiß,الجو حار,Al-jaww ḥārr,Wetter
+Es ist kalt,الجو بارد,Al-jaww bārid,Wetter
+Es regnet,تمطر,Tumṭir,Wetter
+Es ist sonnig,مشمس,Mushmis,Wetter
+Es ist windig,عاصف,ʿĀṣif,Wetter
+Kleidung,ملابس,Malābis,Kleidung
+Hemd,قميص,Qamīṣ,Kleidung
+Hose,بنطال,Bintāl,Kleidung
+Jacke,سترة,Sutra,Kleidung
+Kleid,فستان,Fustān,Kleidung
+Schuhe,حذاء,Ḥidhāʾ,Kleidung
+Kopftuch,حجاب,Ḥijāb,Kleidung
+Familie,عائلة,ʿĀʾila,Familie
+Vater,أب,ʾAb,Familie
+Mutter,أم,ʾUmm,Familie
+Bruder,أخ,ʾAkh,Familie
+Schwester,أخت,ʾUkht,Familie
+Sohn,ابن,Ibn,Familie
+Tochter,ابنة,Ibtina / Bint,Familie
+Morgen,صباح,Ṣabāḥ,Tageszeit
+Mittag,ظهر,Ẓuhr,Tageszeit
+Nachmittag,عصر,ʿAṣr,Tageszeit
+Abend,مساء,Masāʾ,Tageszeit
+Nacht,ليل,Layl,Tageszeit
+Haus,بيت,Bayt,Ort
+Schule,مدرسة,Madrasa,Ort
+Universität,جامعة,Jāmiʿa,Ort
+Moschee,مسجد,Masjid,Ort
+Markt,سوق,Sūq,Ort
+Straße,شارع,Shāriʿ,Ort
+gehen,يذهب,Yadhhab,Verb
+kommen,يأتي,Yaʾtī,Verb
+essen,يأكل,Yaʾkul,Verb
+trinken,يشرب,Yashrab,Verb
+lesen,يقرأ,Yaqraʾ,Verb
+schreiben,يكتب,Yaktub,Verb
+sprechen,يتكلم,Yatakallam,Verb
+Was?,ماذا؟,Mādhā?,Fragewort
+Wer?,من؟,Man?,Fragewort
+Wo?,أين؟,Ayna?,Fragewort
+Wann?,متى؟,Matā?,Fragewort
+Wie?,كيف؟,Kayfa?,Fragewort
+Warum?,لماذا؟,Limādhā?,Fragewort
+Ich,أنا,Anā,Pronomen
+Du (m),أنتَ,Anta,Pronomen
+Du (w),أنتِ,Anti,Pronomen
+Er,هو,Huwa,Pronomen
+Sie,هي,Hiya,Pronomen
+Wir,نحن,Naḥnu,Pronomen
+Ihr (m),أنتم,Antum,Pronomen
+Sie (pl),هم,Hum,Pronomen
+glücklich,سعيد,Saʿīd,Gefühl
+traurig,حزين,Ḥazīn,Gefühl
+müde,متعب,Mutʿab,Gefühl
+wütend,غاضب,Ghāḍib,Gefühl
+nervös,متوتر,Mutawattir,Gefühl
+ruhig,هادئ,Hādiʾ,Gefühl
+Kopf,رأس,Raʾs,Körper
+Hand,يد,Yad,Körper
+Fuß,قدم,Qadam,Körper
+Auge,عين,ʿAyn,Körper
+Ohr,أذن,ʾUdhun,Körper
+Mund,فم,Fam,Körper
+Nase,أنف,ʾAnf,Körper
+groß,كبير,Kabīr,Adjektiv
+klein,صغير,Ṣaghīr,Adjektiv
+schön,جميل,Jamīl,Adjektiv
+hässlich,قبيح,Qabīḥ,Adjektiv
+alt,قديم,Qadīm,Adjektiv
+neu,جديد,Jadīd,Adjektiv
+Guten Appetit,شهية طيبة,Shahiyya ṭayyiba,Redewendung
+Herzlichen Glückwunsch,مبروك,Mabrūk,Redewendung
+Viel Glück,حظاً سعيداً,Ḥaẓẓan saʿīdan,Redewendung
+Bis später,أراك لاحقاً,Arāka lāḥiqan,Redewendung
+In Ordnung / Okay,طيب,Ṭayyib,Redewendung
+So Gott will,إن شاء الله,In shāʾ Allāh,Redewendung
+Gott sei Dank,الحمد لله,Al-ḥamdu lillāh,Redewendung
+Heute,اليوم,Al-yawm,Zeit
+Morgen,غداً,Ghadan,Zeit
+Gestern,أمس,Ams,Zeit
+Stunde,ساعة,Sāʿa,Zeit
+Minute,دقيقة,Daqīqa,Zeit
+Sekunde,ثانية,Thāniya,Zeit
+aufstehen,يستيقظ,Yastaīqiẓ,Alltag
+schlafen,ينام,Yanām,Alltag
+arbeiten,يعمل,Yaʿmal,Alltag
+lernen,يتعلم,Yataʿallam,Alltag
+kochen,يطبخ,Yaṭbukh,Alltag
+putzen,ينظف,Yunaẓẓif,Alltag
+Elf,أحد عشر,ʾAḥada ʿashar,Zahl
+Zwölf,اثنا عشر,Ithnā ʿashar,Zahl
+Dreizehn,ثلاثة عشر,Thalāthata ʿashar,Zahl
+Zwanzig,عشرون,ʿIshrūn,Zahl
+Dreißig,ثلاثون,Thalāthūn,Zahl
+Vierzig,أربعون,Arbaʿūn,Zahl
+Fünfzig,خمسون,Khamsūn,Zahl
+Sechzig,ستون,Sittūn,Zahl
+Siebzig,سبعون,Sabʿūn,Zahl
+Achtzig,ثمانون,Thamānūn,Zahl
+Neunzig,تسعون,Tisʿūn,Zahl
+Hundert,مئة,Miʾa,Zahl
+Gebet,صلاة,Ṣalāh,Religion
+Fasten,صوم,Ṣawm,Religion
+Moschee,مسجد,Masjid,Religion
+Allah,الله,Allāh,Religion
+Qurʾān,قرآن,Qurʾān,Religion
+Islam,الإسلام,Al-islām,Religion
+gehen,يذهب,Yadhhab,Bewegung
+kommen,يأتي,Yaʾtī,Bewegung
+zurückkehren,يعود,Yaʿūd,Bewegung
+fahren,يسافر,Yusāfir,Bewegung
+laufen,يمشي,Yamshī,Bewegung
+rennen,يركض,Yarkuḍ,Bewegung
+Haus,بيت,Bayt,Haushalt
+Zimmer,غرفة,Ghurfa,Haushalt
+Küche,مطبخ,Maṭbakh,Haushalt
+Bad,حمام,Ḥammām,Haushalt
+Fenster,نافذة,Nāfidha,Haushalt
+Tür,باب,Bāb,Haushalt
+Tisch,طاولة,Ṭāwila,Haushalt
+Stuhl,كرسي,Kursī,Haushalt
+Bett,سرير,Sarīr,Haushalt
+Handy,هاتف,Hātif,Gegenstand
+Buch,كتاب,Kitāb,Gegenstand
+Stift,قلم,Qalam,Gegenstand
+Papier,ورقة,Waraqa,Gegenstand
+Schlüssel,مفتاح,Miftāḥ,Gegenstand
+Tasche,حقيبة,Ḥaqība,Gegenstand
+Computer,حاسوب,Ḥāsūb,Digital
+Internet,إنترنت,Internet,Digital
+E-Mail,بريد إلكتروني,Barīd iliktrūnī,Digital
+Telefon,هاتف,Hātif,Digital
+Nachricht,رسالة,Risāla,Digital
+Bildschirm,شاشة,Shāsha,Digital
+Ich habe keine Zeit,ليس عندي وقت,Laysa ʿindī waqt,Alltag
+Ich bin zuhause,أنا في البيت,Anā fī al-bayt,Alltag
+Ich gehe zur Arbeit,أذهب إلى العمل,Adhhab ilā al-ʿamal,Alltag
+Ich warte,أنتظر,Antaẓir,Alltag
+Ich bin beschäftigt,أنا مشغول,Anā mashghūl,Alltag
+jetzt,الآن,Al-ʾān,Adverb
+bald,قريباً,Qarīban,Adverb
+immer,دائماً,Dāʾiman,Adverb
+manchmal,أحياناً,Aḥyānan,Adverb
+nie,أبداً,ʾAbadan,Adverb
+schnell,بسرعة,Bisurʿa,Adverb
+langsam,ببطء,Bibuṭʾ,Adverb
+in,في,Fī,Präposition
+auf,على,ʿAlā,Präposition
+unter,تحت,Taḥt,Präposition
+neben,بجانب,Bijānib,Präposition
+vor,أمام,Amām,Präposition
+hinter,خلف,Khalf,Präposition
+zwischen,بين,Bayn,Präposition
+Ich möchte das kaufen,أريد أن أشتري هذا,Urīdu an ishtariy hādhā,Supermarkt
+Wie viel kostet das?,كم سعر هذا؟,Kam siʿr hādhā?,Supermarkt
+Wo ist die Kasse?,أين الصندوق؟,Ayna aṣ-ṣundūq?,Supermarkt
+Gibt es Rabatt?,هل هناك خصم؟,Hal hunāka khaṣm?,Supermarkt
+Ich möchte essen,أريد أن آكل,Urīdu an ākul,Restaurant
+Ich möchte trinken,أريد أن أشرب,Urīdu an ashrab,Restaurant
+"Die Rechnung, bitte",الحساب من فضلك,Al-ḥisāb min faḍlik,Restaurant
+Das war lecker,كان لذيذاً,Kāna ladhīdhan,Restaurant
+Zum Bahnhof bitte,إلى المحطة من فضلك,Ilā al-maḥaṭṭa min faḍlik,Taxi
+Wie lange dauert es?,كم يستغرق الوقت؟,Kam yastaġriqu al-waqt?,Taxi
+Stoppen Sie bitte hier,قف هنا من فضلك,Qif hunā min faḍlik,Taxi
+Ich hätte gerne ...,أود أن أحصل على ...,Awaddu an aḥṣul ʿalā ...,Wunsch
+Kannst du mir helfen?,هل يمكنك مساعدتي؟,Hal yumkinuka musāʿadatī?,Wunsch
+Ich brauche Hilfe,أحتاج إلى مساعدة,Aḥtāju ilā musāʿada,Wunsch
+Ich wünsche dir einen schönen Tag,أتمنى لك يوماً سعيداً,Atamannā laka yawman saʿīdan,Wunsch
+Frühstück,فطور,Fuṭūr,Küche
+Ei,بيضة,Bayḍa,Küche
+Käse,جبن,Jubn,Küche
+Butter,زبدة,Zubda,Küche
+Honig,عسل,ʿAsal,Küche
+Tee,شاي,Shāy,Küche
+Kaffee,قهوة,Qahwa,Küche
+Tasse,كوب,Kūb,Küche
+Löffel,ملعقة,Milʿaqa,Küche
+Messer,سكين,Sikkīn,Küche
+Gabel,شوكة,Shawka,Küche
+Wohnzimmer,غرفة الجلوس,Ghurfat al-julūs,Zuhause
+Schlafzimmer,غرفة النوم,Ghurfat an-nawm,Zuhause
+Badezimmer,حمام,Ḥammām,Zuhause
+Küche,مطبخ,Maṭbakh,Zuhause
+Lampe,مصباح,Miṣbāḥ,Zuhause
+Schrank,خزانة,Khizāna,Zuhause
+Spiegel,مرآة,Mirʾāh,Zuhause
+Teppich,سجادة,Sijjāda,Zuhause
+Hundert,مئة,Miʾa,Zahl
+Zweihundert,مئتان,Miʾatān,Zahl
+Dreihundert,ثلاثمئة,Thalāthumiʾa,Zahl
+Vierhundert,أربعمئة,Arbaʿumiʾa,Zahl
+Fünfhundert,خمسمئة,Khamsumiʾa,Zahl
+Sechshundert,ستمئة,Sittumiʾa,Zahl
+Siebenhundert,سبعمئة,Sabʿumiʾa,Zahl
+Achthundert,ثمانمئة,Thamānumiʾa,Zahl
+Neunhundert,تسعمئة,Tisʿumiʾa,Zahl
+Tausend,ألف,ʾAlf,Zahl
+Uhr,ساعة,Sāʿa,Uhrzeit
+Es ist eins,الساعة الواحدة,As-sāʿa al-wāḥida,Uhrzeit
+Es ist zwei Uhr,الساعة الثانية,As-sāʿa ath-thāniya,Uhrzeit
+Mittag,الظهر,Aẓ-Ẓuhr,Uhrzeit
+Mitternacht,منتصف الليل,Muntaṣaf al-layl,Uhrzeit
+Freund,صديق,Ṣadīq,Beziehung
+Freundin,صديقة,Ṣadīqa,Beziehung
+Ehemann,زوج,Zawj,Beziehung
+Ehefrau,زوجة,Zawja,Beziehung
+Verlobt,خطيب / خطيبة,Khaṭīb / Khaṭība,Beziehung
+Liebe,حب,Ḥubb,Beziehung
+Familie,عائلة,ʿĀʾila,Beziehung
+Reise,سفر,Safar,Reisen
+Flughafen,مطار,Maṭār,Reisen
+Bahnhof,محطة القطار,Maḥaṭṭat al-qiṭār,Reisen
+Haltestelle,محطة,Maḥaṭṭa,Reisen
+Hotel,فندق,Funduq,Reisen
+Reisepass,جواز السفر,Jawāz as-safar,Reisen
+Gepäck,أمتعة,ʾAmtiʿa,Reisen
+Auto,سيارة,Sayyāra,Verkehr
+Bus,حافلة,Ḥāfila,Verkehr
+Zug,قطار,Qiṭār,Verkehr
+Flugzeug,طائرة,Ṭāʾira,Verkehr
+Taxi,تاكسي,Tāksī,Verkehr
+Fahrrad,دراجة,Darrāja,Verkehr
+zu Fuß,مشياً,Mashyan,Verkehr
+geradeaus,إلى الأمام,Ilā al-amām,Wegbeschreibung
+rechts,يمين,Yamīn,Wegbeschreibung
+links,يسار,Yasār,Wegbeschreibung
+an der Ecke,عند الزاوية,ʿInd az-zāwiya,Wegbeschreibung
+nach dem Kreisverkehr,بعد الدوار,Baʿda ad-dawwār,Wegbeschreibung
+gegenüber,مقابل,Muqābil,Wegbeschreibung
+nah,قريب,Qarīb,Wegbeschreibung
+weit,بعيد,Baʿīd,Wegbeschreibung
+Ticket,تذكرة,Tadhkira,Reisen
+Fahrkarte,بطاقة السفر,Biṭāqat as-safar,Reisen
+Wie viel kostet ein Ticket?,كم ثمن التذكرة؟,Kam thaman at-tadhkira?,Reisen
+Ich möchte ein Ticket nach ...,أريد تذكرة إلى ...,Urīdu tadhkira ilā ...,Reisen
+Gibt es einen Sitzplatz?,هل هناك مقعد؟,Hal hunāka maqʿad?,Reisen
+Ich habe reserviert,أنا حجزت,Anā ḥajaztu,Reisen
+Wann fährt der Zug?,متى يغادر القطار؟,Matā yughādir al-qiṭār?,Reisen
+Gesundheit,صحة,Ṣiḥḥa,Gesundheit
+Krankheit,مرض,Maraḍ,Gesundheit
+Kopfschmerzen,صداع,Ṣudāʿ,Gesundheit
+Fieber,حمى,Ḥummā,Gesundheit
+Husten,سعال,Suʿāl,Gesundheit
+Schnupfen,زكام,Zukām,Gesundheit
+Durchfall,إسهال,ʾIs'hāl,Gesundheit
+Erkältung,برد,Bard,Gesundheit
+Arzt,طبيب,Ṭabīb,Arztbesuch
+Krankenhaus,مستشفى,Mustashfā,Arztbesuch
+Apotheke,صيدلية,Ṣaydaliyya,Arztbesuch
+Rezept,وصفة طبية,Waṣfa ṭibbiyya,Arztbesuch
+Medizin,دواء,Dawāʾ,Arztbesuch
+Ich brauche einen Arzt,أحتاج إلى طبيب,Aḥtāju ilā ṭabīb,Arztbesuch
+Ich habe Schmerzen,عندي ألم,ʿIndī ʾalam,Arztbesuch
+Wo ist das Krankenhaus?,أين المستشفى؟,Ayna al-mustashfā?,Arztbesuch
+müde,تعبان,Taʿbān,Zustand
+krank,مريض,Marīḍ,Zustand
+gesund,سليم,Salīm,Zustand
+schwach,ضعيف,Ḍaʿīf,Zustand
+stark,قوي,Qawī,Zustand
+hungrig,جائع,Jāʾiʿ,Zustand
+durstig,عطشان,ʿAṭshān,Zustand
+schwindelig,دوخة,Dawkha,Zustand
+Hilfe!,النجدة!,An-najda!,Notfall
+Feuer!,حريق!,Ḥarīq!,Notfall
+Polizei,شرطة,Shurṭa,Notfall
+Krankenwagen,سيارة إسعاف,Sayyārat isʿāf,Notfall
+Notaufnahme,قسم الطوارئ,Qism aṭ-ṭawāriʾ,Notfall
+Ich brauche Hilfe,أحتاج إلى مساعدة,Aḥtāju ilā musāʿada,Notfall
+glücklich,سعيد,Saʿīd,Emotion
+traurig,حزين,Ḥazīn,Emotion
+wütend,غاضب,Ghāḍib,Emotion
+verliebt,مغرم,Mughram,Emotion
+aufgeregt,متحمس,Mutaḥammis,Emotion
+ängstlich,خائف,Khāʾif,Emotion
+ruhig,هادئ,Hādiʾ,Emotion
+gelangweilt,ضجر,Ḍajar,Emotion
+nett,لطيف,Laṭīf,Charakter
+ehrlich,صادق,Ṣādiq,Charakter
+faul,كسول,Kasūl,Charakter
+fleißig,مجتهد,Mujtahid,Charakter
+klug,ذكي,Dhakī,Charakter
+dumm,غبي,Ghabī,Charakter
+geduldig,صبور,Ṣabūr,Charakter
+hilfsbereit,متعاون,Mutāʿāwin,Charakter
+neu,جديد,Jadīd,Adjektiv
+alt,قديم,Qadīm,Adjektiv
+lang,طويل,Ṭawīl,Adjektiv
+kurz,قصير,Qaṣīr,Adjektiv
+schwer,ثقيل,Thaqīl,Adjektiv
+leicht,خفيف,Khafīf,Adjektiv
+schnell,سريع,Sarīʿ,Adjektiv
+langsam,بطيء,Baṭīʾ,Adjektiv
+Ich mag ...,أحب ...,Uḥibb ...,Wunsch
+Ich liebe ...,أعشق ...,Aʿshaq ...,Wunsch
+Ich möchte ...,أريد ...,Urīdu ...,Wunsch
+Ich wünsche mir ...,أتمنى ...,Atamannā ...,Wunsch
+Ich interessiere mich für ...,أنا مهتم بـ ...,Anā muhtamm bi ...,Wunsch
+Ich hasse ...,أكره ...,Akrah ...,Wunsch
+Hör zu!,استمع!,Istamiʿ!,Anweisung
+Sprich!,تحدث!,Taḥaddath!,Anweisung
+Schreib!,اكتب!,Uktub!,Anweisung
+Lies!,اقرأ!,Iqraʾ!,Anweisung
+Mach das!,افعل هذا!,Ifʿal hādhā!,Anweisung
+Warte!,انتظر!,Intaẓir!,Anweisung
+Komm!,تعال!,Taʿāl!,Anweisung
+Setz dich!,اجلس!,Ijlis!,Anweisung
+Schule,مدرسة,Madrasa,Schule
+Lehrer,معلم,Muʿallim,Schule
+Schüler,تلميذ,Tilmīdh,Schule
+Klasse,صف,Ṣaff,Schule
+Buch,كتاب,Kitāb,Schule
+Tafel,سبورة,Sabbūra,Schule
+Frage,سؤال,Suʾāl,Schule
+Antwort,جواب,Jawāb,Schule
+Prüfung,امتحان,Imtiḥān,Prüfung
+Noten,درجات,Darajāt,Prüfung
+bestehen,ينجح,Yanjah,Prüfung
+durchfallen,يرسب,Yarsub,Prüfung
+Übung,تمرين,Tamrīn,Prüfung
+Test,اختبار,Ikhtibār,Prüfung
+lesen,يقرأ,Yaqraʾ,Prüfung
+schreiben,يكتب,Yaktub,Prüfung
+sehen,يرى,Yarā,Verb
+hören,يسمع,Yasmaʿ,Verb
+denken,يفكر,Yufakkir,Verb
+verstehen,يفهم,Yafham,Verb
+vergessen,ينسى,Yansā,Verb
+sagen,يقول,Yaqūl,Verb
+tun/machen,يفعل,Yafʿal,Verb
