@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { useState } from 'react'
+import Spline from '@splinetool/react-spline/next'
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -15,6 +16,7 @@ export default function Header() {
 
   return (
     <header className="fixed top-4 left-1/2 transform -translate-x-1/2 z-50 w-full max-w-4xl px-6">
+      <Spline scene="https://prod.spline.design/Li1hl7qtYoZnxp0C/scene.splinecode" />
       <motion.div 
         className="glass rounded-full border border-tuna-600/20 shadow-2xl backdrop-blur-xl"
         initial={{ y: -100, opacity: 0 }}
